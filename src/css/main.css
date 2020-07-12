@@ -1,0 +1,9 @@
+.cover{
+	object-fit: cover !important;	
+}
+.home-text{
+	font-size: 20px;
+}
+.platzi-logo{
+	text-decoration: none !important;
+}
